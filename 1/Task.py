@@ -15,18 +15,6 @@ my_dict = {1:'one',2:'two',3:'three'}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # my_list = [234,53,3465,3456,45,745,7]
 
 # for i in my_list:
